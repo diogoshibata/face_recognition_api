@@ -1,7 +1,7 @@
 [DEFAULT]
-user=ocid1.user.oc1..aaaaaaaayi6qx3af2jtxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+user=ocid1.user.oc1..aaaaaaaawvath27dcpp2cuu73mmeuzdsjtuxgpdt6un6ymcgjtf3lv7f7h4a
 fingerprint=0c:6b:57:0d:d5:33:8a:eb:6d:11:e5:1a:12:3c:9a:7c
 key_file=./config/oci_api_key_private.pem
-tenancy=ocid1.tenancy.oc1..aaaaaaaayi6qx3af2jtxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+tenancy=ocid1.tenancy.oc1..aaaaaaaao2onfigtg3jiq4cu6yvt5kzu6fo3teozdfcvmax5u3bybrepozqq
 region=us-ashburn-1
-compartment=ocid1.compartment.oc1..aaaaaaaayi6qx3af2jtxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+compartment=ocid1.compartment.oc1..aaaaaaaafhaen5sjiuggrbcoialyzmw3uwhwu4jswmm4wad47c47yaa7xw6a
