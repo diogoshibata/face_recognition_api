@@ -11,12 +11,12 @@ $ git clone https://github.com/diogoshibata/face_recognition_api
 2) Go to face_recognition_api folder:<br />
 $ cd face_recognition_api
 
-2.1) Install TensorFlow and cuDNN:<br />
+3) Install TensorFlow and cuDNN:<br />
 	$ chmod +x tensorflow-install.sh<br />
         $ ./tensorflow-install.sh<br />
 	For cuDNN, look at: ![Dmitriy Kisil post](https://medium.com/better-programming/install-tensorflow-1-13-on-ubuntu-18-04-with-gpu-support-239b36d29070), step 5.
 
-3) Install the application:
+4) Install the application:
     - If you have CPU:<br />
         $ chmod +x install-app-cpu.sh<br />
         $ ./install-app-cpu.sh
@@ -25,10 +25,10 @@ $ cd face_recognition_api
         $ chmod +x install-app-gpu.sh<br />
         $ ./install-app-gpu.sh
 		
-4) Start the application:<br />
+5) Start the application:<br />
 $ ./start-app.sh
 
-5) Open your browser and access the Console:<br />
+6) Open your browser and access the Console:<br />
     http://<HOST_IP>:5000/ui
 
 
