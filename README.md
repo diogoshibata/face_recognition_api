@@ -14,7 +14,7 @@ $ cd face_recognition_api
 3) Install TensorFlow and cuDNN:<br />
 	$ chmod +x tensorflow-install.sh<br />
         $ ./tensorflow-install.sh<br />
-	For cuDNN, look at: ![Dmitriy Kisil post](https://medium.com/better-programming/install-tensorflow-1-13-on-ubuntu-18-04-with-gpu-support-239b36d29070), step 5.
+	For cuDNN, look at Step 5 of Dmitriy Kisil's post: https://medium.com/better-programming/install-tensorflow-1-13-on-ubuntu-18-04-with-gpu-support-239b36d29070
 
 4) Install the application:
     - If you have CPU:<br />
