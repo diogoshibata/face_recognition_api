@@ -6,7 +6,7 @@
 ## Basic Instalation - UBUNTU
 
 1) Clone this project:<br />
-$ git clone https://github.com/waslleysouza/face_recognition_api
+$ git clone https://github.com/diogoshibata/face_recognition_api
 
 2) Go to face_recognition_api folder:<br />
 $ cd face_recognition_api
